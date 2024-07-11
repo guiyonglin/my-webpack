@@ -1,17 +1,3 @@
-「面经」字节校招四轮技术面
-
-我叫旋仔 TianTianUp 今天
-收录于话题 #「查缺补漏」
-1 个
-TianTianUp
-TianTianUp
-一个爱写文章的程序员，欢迎关注，一起成长。
-48 篇原创内容
-公众号
-点击上方关注 TianTianUp，一起学习，天天进步
-大家好，分享的内容是字节跳动四轮技术面试题目。
-内容来自牛客网，作者我叫旋仔，更多内容点阅读原文。
-作者：我叫旋仔 链接：https://www.nowcoder.com/discuss/662919?source_id=discuss_experience_nctrack&channel=-1 来源：牛客网
 【一面】1hour
 自我介绍
 项目难点介绍，怎么进行解决与优化的
